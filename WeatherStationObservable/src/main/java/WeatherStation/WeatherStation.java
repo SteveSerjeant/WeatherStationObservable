@@ -9,6 +9,7 @@ package WeatherStation;
  *
  * @author: Steve Serjeant
  * @Created: 2020 09 21
+ * @To be amended to WeatherStationObservable
  */
 public class WeatherStation {
 
